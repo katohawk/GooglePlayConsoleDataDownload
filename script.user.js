@@ -4,7 +4,7 @@
 // @version      1.3
 // @description  监听并解析 Play Console ANR/崩溃 数据，仅导出每日百分比
 // @author       You
-// @match        https://play.google.com/console/u/1/developers/*
+// @match        https://play.google.com/console/u/*/developers/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.5/xlsx.full.min.js
 // ==/UserScript==
